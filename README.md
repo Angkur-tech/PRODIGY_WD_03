@@ -23,4 +23,5 @@ This project is a sleek and interactive Tic-Tac-Toe game created with HTML, CSS,
 - Vanilla JavaScript: Handles turn mechanics, win/draw logic, and restart interactions with clean code
 
 **Usage**
+
 Clone the repository and open index.html to start playing. No dependencies or installations required. Great for learning basic DOM manipulation, event handling, and logic implementation.
